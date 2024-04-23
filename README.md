@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Hafeez.
-I am pursuing AI Accelerated Full-stack Engineering at [**100xEngineers**](https://100xengineers.com/)
+I am pursuing AI Accelerated Full-Stack Engineering at [**100xEngineers**](https://100xengineers.com/)
 
 * 🌍  I'm based in Bangalore, India!
 * ✉️  You can contact me at 

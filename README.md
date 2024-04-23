@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is Hafeez.
-I am on a self-taught journey, Studying B.E in Mechanical Engineering full time and Learning programming in between! C++ was my first language and I'm currently pursuing a Full-Stack roadmap.
+I'm Hafeez.
+I am pursuing AI Accelerated Full-stack Engineering [**@100xEngineers**](https://100xengineers.com/)
 
 * 🌍  I'm based in Bangalore, India!
-* ✉️  You can contact me at [hafeezhmha629@gmail.com](mailto:hafeezhmha629@gmail.com)
+* ✉️  You can contact me at 
 * 🤝  I'm open to collaborating on open-source or personal projects.
+ #### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/hafeezhmha)
 
 ### Skills
 

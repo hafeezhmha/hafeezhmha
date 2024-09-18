@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Hafeez.
-I am pursuing ML & AI Accelerated Full-Stack Engineering at [**100xEngineers**](https://100xengineers.com/)
+I am an AI Developer, pursuing ML & AI Accelerated Full-Stack Engineering at [**100xEngineers**](https://100xengineers.com/)
 
 * 🌍  I'm based in Bangalore, India!
 * ✉️  Finding my own role in the metaverse.

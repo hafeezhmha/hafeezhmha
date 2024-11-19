@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm Hafeez.
 I am an AI Developer, pursuing ML & AI Accelerated Full-Stack Engineering at [**100xEngineers**](https://100xengineers.com/)
 
 * 🌍  I'm based in Bangalore, India!

@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am an AI Developer, pursuing ML & AI Accelerated Full-Stack Engineering at [**100xEngineers**](https://100xengineers.com/)
+I am an AI Developer, pursuing ML & GenAI at [**100xEngineers**](https://100xengineers.com/)
 
 * 🌍  I'm based in Bangalore, India!
-* ✉️  Finding my own role in the metaverse.
 * 🤝  I'm open to collaborating on open-source or personal projects.
   
  #### Let's connect!

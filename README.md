@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an AI Developer, pursuing ML & GenAI at [**100xEngineers**](https://100xengineers.com/)
+I am an AI Engineer pursuing ML & GenAI at [**100xEngineers**](https://100xengineers.com/)
 
 * 🌍  I'm based in Bangalore, India!
 * 🤝  I'm open to collaborating on open-source or personal projects.
